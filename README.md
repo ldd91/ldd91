@@ -10,3 +10,4 @@ Hi I'm LvDongdong,responsible for the architecture design and new function evolu
 - 📫 How to reach me: lvdongdong30@gmail.com
 - 😄 Some technical articles I wrote recently:[AI scene Storage Optimization: Unisound Atlas storage practice based on JuiceFS](https://www.infoq.cn/article/G0i3cA6oX7YjwLVrO0C7)[Speeding Up the AI Supercomputing Platform - Practice at Unisound](https://dzone.com/articles/speeding-up-the-ai-supercomputing-platform-a-pract)
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldd91&show_icons=true&theme=radical)
