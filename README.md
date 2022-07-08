@@ -2,6 +2,7 @@
 
 <!--
 **ldd91/ldd91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm LvDongdong,responsible for the architecture design and new function evolution of Unisound AI platform, Responsible for AI model algorithm application optimization and AI model acceleration. 
 - 🔭 I’m currently working on Unisound
 - 🌱 I’m interested in  Kubernetes, HPC, distributed file storage, distributed cache, etc.
 - 👯 I’m looking to collaborate on ...
